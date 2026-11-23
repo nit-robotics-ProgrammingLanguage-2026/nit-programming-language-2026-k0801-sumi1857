@@ -8,7 +8,7 @@ int main(void)
     
     /* TODO: p, q, r にそれぞれ a, b, c のアドレスを代入 */
     p = &a;
-    q = &d;
+    q = &b;
     r = &c;
 
     /* TODO: p を使って a に scanf で値を読み込む */
